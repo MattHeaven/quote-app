@@ -1,4 +1,4 @@
-const api_url = "https://api.quotable.io/random";
+const api_url = "https://api.quotable.io/random?tags=revolution|civil-rights|uprising";
 
 const quote = document.getElementById('quote');
 const author = document.getElementById('author');
